@@ -16,14 +16,6 @@
  <p>我会一直看着你...直到永远...</p>
 </body>
 <a href="https://open.spotify.com/track/1DHkVkpOeNXxq4YhHOeEac?si=d5bc8d4a15fa4fff">点此听歌</menu></a>
-<body>
-<form>
-    <input type="text" placeholder="お名前は？">
-    <br>
-    <label for=""> name:</label> 
-    <input type="radio" name="name"> Hihi
-    <input type="radio" name="name"> Fifi
-    <input type="radio" name="name"> Oiiai
-</form>
+
 
 </html>
