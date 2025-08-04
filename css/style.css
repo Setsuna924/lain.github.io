@@ -3,13 +3,36 @@ h3{
 }
 
 h1 {
+    font-size: 60px;
     font-family: sans-serif, Verdana, Geneva, Tahoma;
 }
 
 body{
-    background-image: url('images/manson.jpg');
+    background-image: url('images\bg4.jpg');
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-attachment: fixed;
 
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 15px;
+  margin: 10px;
+  z-index: 1;
+}
+nav {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+nav a {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  position: relative;
+  display:flex;
+  justify-content: center;
 }
